@@ -1,4 +1,4 @@
-package designPatterns.Builder.builder;
+package designPatterns.Builder.builderExample1;
 
 public class LunchOrderBuilder {
     private String bread;
