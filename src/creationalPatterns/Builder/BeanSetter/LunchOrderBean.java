@@ -1,4 +1,4 @@
-package designPatterns.Builder.BeanSetter;
+package creationalPatterns.Builder.BeanSetter;
 
 public class LunchOrderBean {
     private String bread;

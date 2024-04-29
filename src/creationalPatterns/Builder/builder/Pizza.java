@@ -1,4 +1,4 @@
-package designPatterns.Builder.builder;
+package creationalPatterns.Builder.builder;
 
 public class Pizza {
     private String dough;

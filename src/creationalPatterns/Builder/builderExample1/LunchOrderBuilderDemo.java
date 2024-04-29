@@ -1,4 +1,4 @@
-package designPatterns.Builder.builderExample1;
+package creationalPatterns.Builder.builderExample1;
 
 public class LunchOrderBuilderDemo {
     public static void main(String[] args) {

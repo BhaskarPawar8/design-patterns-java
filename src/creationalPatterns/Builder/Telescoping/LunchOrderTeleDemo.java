@@ -1,4 +1,4 @@
-package designPatterns.Builder.Telescoping;
+package creationalPatterns.Builder.Telescoping;
 
 public class LunchOrderTeleDemo {
     public static void main(String[] args) {

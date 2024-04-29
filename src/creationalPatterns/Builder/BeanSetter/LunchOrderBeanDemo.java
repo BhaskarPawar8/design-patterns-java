@@ -1,4 +1,4 @@
-package designPatterns.Builder.BeanSetter;
+package creationalPatterns.Builder.BeanSetter;
 
 public class LunchOrderBeanDemo {
     public static void main(String[] args) {
